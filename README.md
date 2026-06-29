@@ -133,9 +133,9 @@ Target Variable:
 
 | Metric | Value |
 |---------|-------|
-| R² Score | **YOUR_R2_SCORE** |
-| MAE | **YOUR_MAE** |
-| RMSE | **YOUR_RMSE** |
+| R² Score | **0.822** |
+| MAE | **2678.0** |
+| RMSE | **3743.8** |
 
 The model demonstrates good predictive capability and successfully captures the relationship between important vehicle specifications and selling price.
 
@@ -155,25 +155,25 @@ The model demonstrates good predictive capability and successfully captures the 
 
 ## Price Distribution
 
-![Price Distribution](Price Distrbution.png)
+![Price Distribution](price_distrbution.png)
 
 ---
 
 ## Correlation Heatmap
 
-![Correlation Heatmap](Correlation Heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](Feature Importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
 ## Actual vs Predicted Prices
 
-![Actual vs Predicted](Actual Vs Predicted.png)
+![Actual vs Predicted](actual_vs_predicted.png)
 
 ---
 
