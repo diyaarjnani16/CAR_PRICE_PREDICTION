@@ -161,7 +161,7 @@ The model demonstrates good predictive capability and successfully captures the 
 
 ## Correlation Heatmap
 
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](correlaion_heatmap.png)
 
 ---
 
